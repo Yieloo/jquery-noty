@@ -1,0 +1,14 @@
+{
+  "name": "jquery-noty",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yieloo/jquery-noty.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yieloo/jquery-noty/issues"
+  },
+  "homepage": "https://github.com/Yieloo/jquery-noty#readme"
+}
